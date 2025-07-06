@@ -30,7 +30,16 @@ The source of the Data for this project is Amazon Case study.xlsx and this file 
 
  ## Visual
 -[download here](https://github.com/JohndeborahEva/DSA-AMAZON-PROJECT-REVIEW-/tree/main)
-- 
+
+- <img width="395" alt="image" src="https://github.com/user-attachments/assets/9ef60b35-80d8-41c9-9ee6-dce516508399" />
+- <img width="395" alt="image" src="https://github.com/user-attachments/assets/f69ad713-a9d1-4098-b82d-21206ec1004a" />
+- <img width="395" alt="image" src="https://github.com/user-attachments/assets/6f82173a-e90e-4242-80a7-0a073ee25fef" />
+- <img width="395" alt="image" src="https://github.com/user-attachments/assets/546acdeb-93b2-4d2a-b8cc-8735d0d0914f" />
+- <img width="395" alt="image" src="https://github.com/user-attachments/assets/81534595-c1d0-44ce-aadf-b361d4914cf1" />
+
+
+
+
 
 
 
