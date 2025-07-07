@@ -32,7 +32,7 @@ The source of the Data for this project is Amazon Case study.xlsx and this file 
 -[download here](https://github.com/JohndeborahEva/DSA-AMAZON-PROJECT-REVIEW-/tree/main)
 
 - [image](https://github.com/user-attachments/assets/8cb3a04c-143a-4dcb-883b-519fd50536b3)
-- [image](Screenshot 2025-07-06 233309.png)
+- [image]()
 
 
 
