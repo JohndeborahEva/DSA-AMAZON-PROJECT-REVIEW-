@@ -1,6 +1,6 @@
 # DSA-AMAZON-PROJECT-REVIEW- 
 Excel Dashboard for Product Review using Pivot Tables and Formulas.
-### My name is John Deborah Dennis, a student at the Incubator Hub's [Digital Skill Up Africa] training program,where i recently just concluded my Data Analysis class. I have undergone extensive training in Excel,SQL, and Power BI, i have been guided by the most knowledgeable instructors in Data Analysis and Data Engineering. I will love to express my utmost gratitude to my amazing tutors: Mr Muhsin I., Mr Femi, and Mr Temidayo.
+I am John Deborah Dennis, a student at the Incubator Hub's [Digital Skill Up Africa] training program,where i recently just concluded my Data Analysis class. I have undergone extensive training in Excel,SQL, and Power BI, i have been guided by the most knowledgeable instructors in Data Analysis and Data Engineering. I will love to express my utmost gratitude to my amazing tutors: Mr Muhsin I., Mr Femi, and Mr Temidayo.
 ## Project Topic: Amazon product review analysis
 ## Project Overview 
 This task invoived selecting 2 out of 3 case studies provided for the project and conducting a thorough Explanatory Data Analysis [EDA] using appropriate analytical tools and techniques
