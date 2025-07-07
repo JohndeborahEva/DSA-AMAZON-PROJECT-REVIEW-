@@ -35,7 +35,8 @@ The source of the Data for this project is Amazon Case study.xlsx and this file 
 - [image](https://github.com/user-attachments/assets/11b68635-e8ba-4965-9a13-c9ae0bd9d932)
 - [image](https://github.com/user-attachments/assets/63e9a6b2-e87b-4e7f-a2be-5ddb33891bc0)
 - [image](https://github.com/user-attachments/assets/080dcec4-a76f-435b-adc0-f5cfee1e22e1)
-- [image](https://github.com/user-attachments/assets/f4330518-3f6e-406f-857a-f3b30f3b9091)
+- [image](https://github.com/user-attachments/assets/3a61a634-3f7c-4155-b54e-070d919bad41)
+
 
 
 
